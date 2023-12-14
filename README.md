@@ -28,9 +28,3 @@ I gained insights and followed the tutorial from this [YouTube video](https://yo
 - [ ] Implement local storage to persist tasks.
 - [ ] Add an option to edit tasks.
 - [ ] Integrate with a backend for cloud storage.
-
-## Feedback
-
-Feel free to fork this project, open issues, or submit pull requests. Any feedback is highly appreciated!
-
-😃 Happy Coding!
